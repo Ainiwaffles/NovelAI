@@ -1,0 +1,47 @@
+{
+  "name": "Euterpe",
+  "fonts": {
+    "default": "\"Source Sans Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Roboto\", \"Oxygen\", \"Ubuntu\", \"Cantarell\", \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+    "code": "\"PC-9800\", \"Courier New\", Consolas, Menlo, Monaco, monospace",
+    "field": "\"Source Sans Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Roboto\", \"Oxygen\", \"Ubuntu\", \"Cantarell\", \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+    "headings": "\"Coconat\"",
+    "selectedHeadings": "Coconat",
+    "selectedDefault": "Source Sans Pro"
+  },
+  "colors": {
+    "bg0": "#101224",
+    "bg1": "#1A1C2E",
+    "bg2": "#212335",
+    "bg3": "#2B2D3F",
+    "textHeadings": "#c4dc62",
+    "textMain": "#FFFFFF",
+    "textHeadingsOptions": [
+      "#FFFFFF",
+      "#EC56A7",
+      "#75CF67",
+      "#9773FF"
+    ],
+    "textMainOptions": [
+      "#dcddde",
+      "#E7FFE9",
+      "#FFF9C8",
+      "#A5C9FF"
+    ],
+    "textDisabled": "rgba(255,255,255,0.56)",
+    "textPlaceholder": "rgba(255,255,255,0.38)",
+    "warning": "#c4dc62",
+    "textHighlight": "rgba(213, 113, 233, 0.38)",
+    "textPrompt": "#fff5cb",
+    "textUser": "#c4dc62",
+    "textEdit": "#a3cc00",
+    "textAI": "#ffffff"
+  },
+  "breakpoints": {
+    "mobile": "1200px",
+    "desktop": "1600px"
+  },
+  "transitions": {
+    "interactive": "0.08s ease-in-out"
+  },
+  "global": "@font-face {font-family: 'Coconat';src: url('https://raw.githubusercontent.com/Ainiwaffles/fonts/main/coconat/Coconat-Regular.otf') format('truetype');font-weight: 400;font-style: normal;font-stretch: normal;}.userText, .editText, .aiText, .promptText {text-shadow: 0 2px #1A1C2E, 2px 0 #1A1C2E, 0 -2px #1A1C2E;}.ProseMirror-focused {}.conversation{max-width: 100%;height: 100%;padding: 5px;margin: 0px;background-image:linear-gradient(171deg, rgba(33, 35, 53, 0.208) 0%, rgba(33, 35, 53, 0.7) 65%, rgba(33, 35, 53, 0.9) 74%, rgba(33, 35, 53, 1) 82%, rgba(33, 35, 53, 1) 100%), url(https://cdn.discordapp.com/attachments/880880722762694666/935940820790542456/Honeycam_2022-01-26_17-53-42.gif) !important;background-size: contain !important;background-repeat: no-repeat !important;background-position: right bottom !important;background-color: transparent !important;}.conversation-input-container{max-width: 100%;height: 100%;margin: 0px;background: linear-gradient(33, 35, 53, 0.5, rgba(33, 35, 53, 0.5));}.conversation-main{background: linear-gradient(33, 35, 53, 0.5, rgba(33, 35, 53, 0.5));border: none !important;}.conversation-main:focus-within{background: transparent !important;}.menubar{background: rgba(101224) !important;}.infobar{background: rgba(101224) !important;}#app{background-image: url(https://cdn.discordapp.com/attachments/880880722762694666/935940822296313906/eutie_bg.png);background-size: auto ;background-repeat: repeat;background-position: center bottom;}"
+}
